@@ -1,3 +1,6 @@
+# V 1.1.0
+- Update texture and icon
+
 # v 1.0.9
 - Rename mod name to be more user-friendly.
 
