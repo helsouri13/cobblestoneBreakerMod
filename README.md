@@ -5,7 +5,7 @@ This is a simple mod for a block that automatically breaks a cobblestone next to
 See the crafting recipe below:<br>
 ![file.webp](file.webp)
 
-Icon and texture generated using [this pixelart generator](https://deepai.org/machine-learning-model/pixel-art-generator)
+Icon and texture generated using chatGPT
 
 ## License
 
